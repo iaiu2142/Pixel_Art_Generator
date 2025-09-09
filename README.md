@@ -33,6 +33,10 @@ You can tweak the following values inside the notebook:
 - `ADD_OUTLINES` → Overlay outlines to highlight edges  
 - `OUTLINE_STRENGTH` → Control how strong the outlines appear  
 ## Example 📸
-| Original                           | Pixelated                            |
-| ---------------------------------- | ------------------------------------ |
-| ![original](examples/original.jpg) | ![pixelated](examples/pixel_art.png) |
+
+![Screenshot 2025-09-10 000637](https://github.com/user-attachments/assets/9bc0243f-159b-42bd-9e2b-fbdff386b64c)
+
+### 🤝 Contributing
+
+Pull requests and improvements are always welcome.
+Feel free to fork, enhance, and share your pixel-art creations.
