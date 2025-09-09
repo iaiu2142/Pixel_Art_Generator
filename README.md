@@ -1,11 +1,11 @@
-# 🎨 Pixel Art Generator  
+# Pixel Art Generator  
 
 Turn your photos into retro-style **pixel art** 🎮 using Python & Google Colab.  
 This project transforms any image into pixelated artwork with customizable **pixel size**, **color palette**, **dithering**, and **outlines**.
 
 ---
 
-## ✨ Features
+## Features
 - 📂 Upload any image (JPG/PNG)  
 - 🎛 Control pixel size (how chunky the blocks look)  
 - 🎨 Reduce colors with K-means clustering  
@@ -15,7 +15,7 @@ This project transforms any image into pixelated artwork with customizable **pix
 
 ---
 
-## 🚀 Quick Start (Google Colab)
+##  Quick Start (Google Colab)
 1. Open the notebook in **Google Colab**  
 2. Run all cells  
 3. Upload your image when prompted  
@@ -24,7 +24,7 @@ This project transforms any image into pixelated artwork with customizable **pix
 
 ---
 
-## ⚙️ Parameters
+## Parameters
 You can tweak the following values inside the notebook:
 
 - `PIXEL_SIZE` → Bigger = larger chunky pixels, smaller = more detail  
