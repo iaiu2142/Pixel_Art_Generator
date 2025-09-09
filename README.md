@@ -14,16 +14,11 @@ This project transforms any image into pixelated artwork with customizable **pix
 - 💾 Download your pixel-art result as PNG  
 
 ---
+## Example 📸
 
-##  Quick Start (Google Colab)
-1. Open the notebook in **Google Colab**  
-2. Run all cells  
-3. Upload your image when prompted  
-4. Get instant **Original vs Pixel Art** output  
-5. Download your final PNG  
+![Screenshot 2025-09-10 000637](https://github.com/user-attachments/assets/9bc0243f-159b-42bd-9e2b-fbdff386b64c)
 
 ---
-
 ## Parameters
 You can tweak the following values inside the notebook:
 
@@ -32,10 +27,7 @@ You can tweak the following values inside the notebook:
 - `USE_DITHER` → Enable/disable Floyd–Steinberg dithering  
 - `ADD_OUTLINES` → Overlay outlines to highlight edges  
 - `OUTLINE_STRENGTH` → Control how strong the outlines appear  
-## Example 📸
-
-![Screenshot 2025-09-10 000637](https://github.com/user-attachments/assets/9bc0243f-159b-42bd-9e2b-fbdff386b64c)
-
+---
 ### 🤝 Contributing
 
 Pull requests and improvements are always welcome.
